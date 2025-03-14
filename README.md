@@ -29,4 +29,3 @@ The project aims to:
 -   matplotlib
 -   itertools
 -   collections
--   google.colab (if running in Google Colab)
